@@ -12,5 +12,14 @@
     "content": "another comment for the post",
     "createdAt": 1616563848995,
     "id": "gRrqGTJ-o2b5IROVo0kDzUuza1oTku"
+  },
+  {
+    "name": "Elton",
+    "avatar": "https://avatars.githubusercontent.com/u/70419?v=4",
+    "content": {
+      "content": "another comment for the post"
+    },
+    "createdAt": 1616563850754,
+    "id": "rMnULHOtaJVUYG-7eJgODWpR3FU6uq"
   }
 ]
