@@ -5,5 +5,12 @@
     "content": "A comment.",
     "createdAt": 1616567584186,
     "id": "M-8MrTU2WDZyMWTMglapcBWWXRvhFg"
+  },
+  {
+    "name": "Elton",
+    "avatar": "https://avatars.githubusercontent.com/u/70419?v=4",
+    "content": "another comment.",
+    "createdAt": 1616567636609,
+    "id": "RZrthn44DwdxCEcXmz0uHfisTKcJ3V"
   }
 ]
